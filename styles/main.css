@@ -1871,12 +1871,12 @@ blockquote:before {
 body {
       background-color: #eee;
     }.header {
-        width: 1200px;
+        width: 85%;
         margin: 0 auto;
       }
 
       .main-continer {
-        width: 1200px;
+        width: 85%;
         margin: 0 auto;
       }
     body {
